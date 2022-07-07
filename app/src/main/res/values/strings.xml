@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">About Me</string>
+    <string name="name">Juan Rodriguez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Juan Rodriguez.
+        \n\nSystems Engineer at Pontificia Universidad Javeriana,
+        \nresponsible, creative, proactive, attentive to new technologies and updates them.
+        \n\nAbility on teamwork, design and implement computer solutions to form a solid technological system, technical and human infrastructure for the benefit of society.
+        \n\n\Knowledge in programming, database, with emphasis in Software Construction and Software Architecture, certified in agile SCRUM methodology. Extensive mastery of programming languages C#, .NET, Visual Basic, SQL, IOS Swift, Android, Java and C++.
+        \n\nCompetence in the stages of design, planning and execution processes in Software Architecture and application development.
+        \n\nSpecial interest in specialization in Project Management, Software Engineering, Enterprise Architecture, mobile and related applications.
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
