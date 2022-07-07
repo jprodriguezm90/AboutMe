@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Juan Rodriguez</string>
+    <string name="nickname">Hackmont</string>
     <string name="yellow_star">Yellow star</string>
     <string name="bio">Hi, my name is Juan Rodriguez.
         \n\nSystems Engineer at Pontificia Universidad Javeriana,
